@@ -5,17 +5,18 @@
   }
   
   :root {
-    --white:#fff;
-    --background: #F2F3F5;
+    --white:#4F4F4F;
+    --background: #363636;
     --gray-line: #DCDDE0;
-    --text: #666666;
+    --text: #DCDDE0;
     --text-highlight: #B3B9FF;
-    --title: #2E384D;
+    --title: #DCDDE0;
     --red: #E83F5B;
     --green: #4CD62B;
-    --blue: #5965E0;
-    --blue-dark: #4953B8;
-    --blue-twitter: #2AA9E0;
+    --blue: #4953B8;
+    --blue-dark: #00008B;
+    --blue-twitter: #4953B8;
+    --botao:  #DCDDE0;
   }
   
   @media (max-width: 1080px) {
